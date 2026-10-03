@@ -4601,12 +4601,6 @@
 		(uuid "c73454a4-8aeb-469d-a11e-2545b14d9365")
 	)
 	(junction
-		(at 29.21 40.64)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "ccb28340-2d87-423b-9ff5-e57899265c7c")
-	)
-	(junction
 		(at 121.92 129.54)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -5696,16 +5690,6 @@
 	)
 	(wire
 		(pts
-			(xy 20.32 49.53) (xy 20.32 54.61)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "acfa13aa-1c1a-40c5-a6f8-032005f7aa3e")
-	)
-	(wire
-		(pts
 			(xy 57.15 54.61) (xy 62.23 54.61)
 		)
 		(stroke
@@ -5766,16 +5750,6 @@
 	)
 	(wire
 		(pts
-			(xy 20.32 40.64) (xy 29.21 40.64)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "be8040ba-62a5-44c5-b699-8a538df8aeb7")
-	)
-	(wire
-		(pts
 			(xy 143.51 22.86) (xy 148.59 22.86)
 		)
 		(stroke
@@ -5803,16 +5777,6 @@
 			(type default)
 		)
 		(uuid "c4eb0617-ffba-46fc-8177-4e4f8cf4b534")
-	)
-	(wire
-		(pts
-			(xy 20.32 44.45) (xy 20.32 40.64)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c55a53d9-0517-4e35-a34b-4c3b41e2fa3e")
 	)
 	(wire
 		(pts
@@ -6339,10 +6303,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "64526e24-4d9e-4a5a-bfce-c91c2add79ec")
+			(uuid "d0db65bb-37d0-46a0-80e9-59902011dde4")
 		)
 		(pin "2"
-			(uuid "20d12387-b6d9-45f4-812d-a1984dccdca3")
+			(uuid "02e04c2f-543c-42ed-b6d4-ab2c12e2bb68")
 		)
 		(instances
 			(project "STM32G491RE"
@@ -6419,7 +6383,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "fd5d3017-11b2-4872-8233-468f755349e3")
+			(uuid "cb67eca7-c996-41e9-9fd6-d819f6620dd9")
 		)
 		(instances
 			(project "STM32G491RE"
@@ -6498,10 +6462,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "f5ba7fdc-322e-49de-8fcb-836672590214")
+			(uuid "a79770e1-6485-448c-bd30-3beb203d4c1f")
 		)
 		(pin "2"
-			(uuid "f1991d2f-ceef-4e55-99f4-881d6ae2e3e8")
+			(uuid "7c44bfb0-46e7-4a1c-8cdf-27ad5ba7e6fd")
 		)
 		(instances
 			(project "STM32G491RE"
@@ -6577,10 +6541,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "9f75c86d-42c3-49f8-bea5-93925a9a6230")
+			(uuid "99be01f9-d09c-44bc-86d2-e392a2a17213")
 		)
 		(pin "1"
-			(uuid "325c0911-339f-4c4e-a0b7-5bff9f2d74b4")
+			(uuid "7be5d0e7-714c-4183-b044-7a671baa681d")
 		)
 		(instances
 			(project "STM32G491RE"
@@ -6659,10 +6623,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "887ba8ce-29d5-4722-86fc-938145d2e705")
+			(uuid "3e35d430-8947-4fe0-9382-1ff913f403ae")
 		)
 		(pin "2"
-			(uuid "1c0d5a1d-c579-494c-a5d8-18f84c6cf579")
+			(uuid "fd1d7ced-2ff8-4411-af3d-ecddbdb59b96")
 		)
 		(instances
 			(project "STM32G491RE"
@@ -6738,10 +6702,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "c5d6a113-aa8a-4757-8d91-f884add6a7c6")
+			(uuid "92c6b4eb-90e7-4b6c-a19e-5d2d922b6474")
 		)
 		(pin "1"
-			(uuid "36f44ec9-a30c-4f2a-b528-566d98d35017")
+			(uuid "26ab48cc-06ac-40cb-b3ef-b31c3444b330")
 		)
 		(instances
 			(project "STM32G491RE"
@@ -6819,10 +6783,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "2ceaf477-c207-4291-bea5-528c9d40e824")
+			(uuid "7f8b77ea-c8bd-4485-8352-c0be8cc17fca")
 		)
 		(pin "2"
-			(uuid "3887c6cc-94ab-499c-9dee-097e2b4992c5")
+			(uuid "c3a0c20b-7b2a-405b-b6b9-b80073984d78")
 		)
 		(instances
 			(project "STM32G491RE"
@@ -6899,7 +6863,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "8f27122d-b0f1-4048-9bdb-7d2ef621deba")
+			(uuid "49a5dccd-cbe3-4b77-bf6f-3d32f891c617")
 		)
 		(instances
 			(project "STM32G491RE"
@@ -6977,7 +6941,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "30a1cc24-af9f-4c80-9411-c7ad23224bc6")
+			(uuid "8bdf1290-c5d6-4097-a88f-e49a824c3d55")
 		)
 		(instances
 			(project "STM32G491RE"
@@ -7054,7 +7018,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "3c24d06a-c5df-4c44-b134-6198914f0b32")
+			(uuid "0a68710f-b89d-4fca-a7d0-a72da81b329e")
 		)
 		(instances
 			(project "STM32G491RE"
@@ -7131,10 +7095,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "2714dfbc-31a9-40b0-bfc6-a17f06f10273")
+			(uuid "dc706534-5557-40a0-a547-10dd4ba57032")
 		)
 		(pin "2"
-			(uuid "dce270aa-938e-4830-9ba4-0692cf88e772")
+			(uuid "4163ffe9-2140-4f3b-bfe6-d2c5488c80e6")
 		)
 		(instances
 			(project "STM32G491RE"
@@ -7211,10 +7175,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "a0ddea98-3066-4cc2-9c6b-eb80a37a0956")
+			(uuid "8ff65e35-3fba-466d-b027-185abd74df8a")
 		)
 		(pin "1"
-			(uuid "4447276f-5ce7-4402-86b8-c45649b02c27")
+			(uuid "8760ccc6-8bff-41df-970a-afdb35ae34c8")
 		)
 		(instances
 			(project "STM32G491RE"
@@ -7291,7 +7255,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "fc7d962d-5d5b-48ee-b57a-b457ba54f0da")
+			(uuid "50507b7f-589d-4daf-9bc8-115af506af6c")
 		)
 		(instances
 			(project "STM32G491RE"
@@ -7369,10 +7333,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "66e1d25f-8cea-4df1-b3c1-185168c76e93")
+			(uuid "e100bb1f-75b2-45f6-b198-10f7b509c0ca")
 		)
 		(pin "2"
-			(uuid "e6cf7f34-8d21-43ed-aec9-1143ff3427b3")
+			(uuid "1d0f3f9b-3d11-4bda-a6b9-f76e0477da4a")
 		)
 		(instances
 			(project "STM32G491RE"
@@ -7450,19 +7414,19 @@
 			)
 		)
 		(pin "5"
-			(uuid "955c1d70-65eb-4283-9215-1717d4bbe8ac")
+			(uuid "6c802288-c17a-4f07-aa82-e728e40b6cb1")
 		)
 		(pin "2"
-			(uuid "71caa9aa-b2d5-4a74-9793-d227d6138a73")
+			(uuid "0d33b7d5-65b2-44da-a733-72c605974271")
 		)
 		(pin "4"
-			(uuid "47dfda96-7e06-4a38-a1f3-67ef833cb9b1")
+			(uuid "193b5b92-e223-4f87-88b8-0aba0e90fcb9")
 		)
 		(pin "3"
-			(uuid "082a4911-06a8-4c85-b582-acd60502f4a3")
+			(uuid "62fe278d-6524-4128-9a86-fa3d6572d61b")
 		)
 		(pin "1"
-			(uuid "0f3d46de-312d-472c-b303-c3ef9cdd3019")
+			(uuid "2ffcbc29-22d5-4ac1-b385-7b84cf1101c2")
 		)
 		(instances
 			(project "STM32G491RE"
@@ -7540,7 +7504,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "b6ad7533-d762-4fa3-a734-e0af81121a11")
+			(uuid "4823a3bc-daf5-493c-a5c2-ae88d7005c49")
 		)
 		(instances
 			(project "STM32G491RE"
@@ -7616,10 +7580,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "978066e2-7f26-49a1-a985-fd946f9abc56")
+			(uuid "b6485d50-df2a-4d19-acc6-8c09a7881e77")
 		)
 		(pin "1"
-			(uuid "5c73020f-dfa2-42a4-865d-051afc4ce323")
+			(uuid "1aa65df5-2567-4dc2-8e3c-7371459d58b6")
 		)
 		(instances
 			(project "STM32G491RE"
@@ -7728,13 +7692,13 @@
 			)
 		)
 		(pin "2"
-			(uuid "8a29b661-6c8e-44d1-8e24-545453256fb8")
+			(uuid "335ad975-26ef-46c7-9092-beb24f6890b9")
 		)
 		(pin "1"
-			(uuid "f8ebee60-7c64-4ad5-b7ff-a11e0f3d0f0e")
+			(uuid "4a15b4f3-ba4f-4462-8b5b-921150f1fb49")
 		)
 		(pin "3"
-			(uuid "bd349a94-5b0d-4083-baaa-2a2d62b30a90")
+			(uuid "443fab12-46a0-436e-98a2-d5eb28a25f1e")
 		)
 		(instances
 			(project "STM32G491RE"
@@ -7811,7 +7775,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "164459cf-bdcb-446f-8cc0-cdbf38c0a39e")
+			(uuid "305d6389-4852-4812-a033-c8dd1a386da1")
 		)
 		(instances
 			(project "STM32G491RE"
@@ -7888,7 +7852,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "1dbba6d0-7c5a-4672-86e7-13d57cd8977f")
+			(uuid "2e06e0f9-3057-46c1-abe6-9981d7010e1d")
 		)
 		(instances
 			(project "STM32G491RE"
@@ -7965,7 +7929,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "83f8c107-8449-459c-b6bb-b9dc30c3c7d7")
+			(uuid "65a68bd7-506a-4cff-b26f-8747a43b5eef")
 		)
 		(instances
 			(project "STM32G491RE"
@@ -8042,7 +8006,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "3e5dfa51-79d4-4128-ba0a-be41c4738d65")
+			(uuid "b6e23e11-5f56-49c6-a9ef-9829410aa0c5")
 		)
 		(instances
 			(project "STM32G491RE"
@@ -8119,7 +8083,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "33d817fc-91b4-4a83-9d74-6684733d3cc0")
+			(uuid "5e6161ed-dc1e-4f91-bcdf-d15284f502fe")
 		)
 		(instances
 			(project "STM32G491RE"
@@ -8197,10 +8161,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "31e6e7a0-6d9a-4707-80c1-f9cbdc77becf")
+			(uuid "ee91e230-568f-4b46-af62-2040550fdb70")
 		)
 		(pin "2"
-			(uuid "83042407-80af-4d4c-a5b9-e7bc347127b7")
+			(uuid "8efc0116-f724-4a2e-808b-8acb0f8a6f48")
 		)
 		(instances
 			(project "STM32G491RE"
@@ -8279,10 +8243,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "00285de7-6958-41da-8c4d-696245edd21d")
+			(uuid "1823d673-9eb3-40b0-9508-e2d4c71c4a72")
 		)
 		(pin "1"
-			(uuid "dc64e5c5-67af-4c3b-99cd-9e9f5238dd9f")
+			(uuid "522c383c-b109-41b1-8fe4-0d018d40cc85")
 		)
 		(instances
 			(project "STM32G491RE"
@@ -8395,13 +8359,13 @@
 			)
 		)
 		(pin "G"
-			(uuid "701bf2cb-a2c4-404f-ae8a-9019c72407b8")
+			(uuid "e9f1f814-f1d7-40c0-9a29-9a800b202486")
 		)
 		(pin "D"
-			(uuid "1905a7f3-ed13-4174-8d8b-279078ae8123")
+			(uuid "8f0e3557-306d-421e-a3bf-914ec1be0809")
 		)
 		(pin "S"
-			(uuid "ddd796d2-3f82-4ba8-a5c6-3edbef454221")
+			(uuid "9e6c47dd-f05b-463b-b232-e459aaf154c4")
 		)
 		(instances
 			(project "STM32G491RE"
@@ -8480,10 +8444,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "0c40b3c5-2989-4279-b400-020e9b99137e")
+			(uuid "318d710b-213d-4159-a753-eb21e6a49a1f")
 		)
 		(pin "1"
-			(uuid "6e694aed-1fc8-4e01-a12e-f3180416df84")
+			(uuid "ad51b1cd-fce2-4f4a-a745-278b7ac13404")
 		)
 		(instances
 			(project "STM32G491RE"
@@ -8560,7 +8524,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "ea326a5b-5abd-4e08-937b-187826dfe5cf")
+			(uuid "f9974b7a-0716-453b-8e5f-fae1b455f2d2")
 		)
 		(instances
 			(project "STM32G491RE"
@@ -8648,10 +8612,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "a8928933-1af6-4328-8543-7683de97dc18")
+			(uuid "68459690-1c65-414d-bd7b-672c9abfda01")
 		)
 		(pin "2"
-			(uuid "d6f61fd8-5654-492b-82b6-4aea1458eb05")
+			(uuid "7fa66a9c-34b5-4848-a8bc-39326077f9f4")
 		)
 		(instances
 			(project "STM32G491RE"
@@ -8729,7 +8693,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "8f63c81e-1b36-4b73-bd40-dc021d9d00bb")
+			(uuid "eb152aa6-861a-422f-8c68-6a70f8ca8581")
 		)
 		(instances
 			(project "STM32G491RE"
@@ -8808,10 +8772,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "4aa41097-7278-4057-82b6-52cab209003c")
+			(uuid "6d59050b-928f-45f8-8cc4-fabfcf752e90")
 		)
 		(pin "1"
-			(uuid "4281d834-3972-4bb4-9c73-c439d69ee28d")
+			(uuid "2ee19bf6-8a22-4a78-b5cc-8b099dc32685")
 		)
 		(instances
 			(project "STM32G491RE"
@@ -8890,10 +8854,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "5985d665-3d4d-486a-8cd1-06df9777f8f7")
+			(uuid "6186eafd-b4f2-4c81-a2ba-75ec4cc9799f")
 		)
 		(pin "1"
-			(uuid "1ea0b6b8-e67e-461e-bf74-526bf627bdd0")
+			(uuid "32382cf0-f09f-4d28-aaf6-3c6c43dcb1ca")
 		)
 		(instances
 			(project "STM32G491RE"
@@ -8980,10 +8944,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "9b4b364c-e310-4f1c-9340-64fd771c4b7b")
+			(uuid "f1ba545b-4856-4f06-a455-b0b90ac02845")
 		)
 		(pin "2"
-			(uuid "14d990b1-935e-4439-864c-3ae6b7481648")
+			(uuid "eeda713d-05b6-483f-81c3-92b596779440")
 		)
 		(instances
 			(project "STM32G491RE"
@@ -9060,7 +9024,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "257d1b75-7aed-43cf-a735-6f9c9750e154")
+			(uuid "fcddb828-9b39-40ab-8289-9c970c9dd226")
 		)
 		(instances
 			(project "STM32G491RE"
@@ -9138,10 +9102,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "cfe2e823-be87-4678-b2c6-073150f4d0de")
+			(uuid "f863251f-1c18-4269-b8d8-d6714a50f5e7")
 		)
 		(pin "2"
-			(uuid "24cc16b5-3dcc-4ea0-aded-785baad2888d")
+			(uuid "56cd7997-fa34-4933-b40a-4fb8af5a7117")
 		)
 		(instances
 			(project "STM32G491RE"
@@ -9217,10 +9181,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "c1808cb2-6d1d-466e-9e73-85e72f746381")
+			(uuid "f50787a5-93b6-446a-be0b-82ea9f34e07b")
 		)
 		(pin "1"
-			(uuid "d6919998-7568-49cf-a4ba-bf94719c550e")
+			(uuid "0af74077-985e-4327-a04a-941f685a1d65")
 		)
 		(instances
 			(project "STM32G491RE"
@@ -9298,7 +9262,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "c94755a7-5f89-4836-a4ef-64d5be4e6138")
+			(uuid "381d2afe-1c4a-479b-b84c-ed200ace2b9d")
 		)
 		(instances
 			(project "STM32G491RE"
@@ -9375,7 +9339,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "011858f0-8f5a-473a-98c2-3d3c0a590fe9")
+			(uuid "2451415a-1ee7-468d-b9f0-79730bcceff3")
 		)
 		(instances
 			(project "STM32G491RE"
@@ -9451,10 +9415,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "1ec9c150-b7f6-4787-b436-3c07f4b427ee")
+			(uuid "f480ff35-2918-4f80-bd41-226b4e088fc9")
 		)
 		(pin "1"
-			(uuid "05ed4d2e-6137-467a-8fd3-fedf174810b0")
+			(uuid "005dcffa-791c-43dd-8448-45479eeb7538")
 		)
 		(instances
 			(project "STM32G491RE"
@@ -9533,10 +9497,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "a92280e4-4151-476d-b95b-07c72bcb5ada")
+			(uuid "466b7f38-3399-4b38-9194-d7a3a0c13070")
 		)
 		(pin "1"
-			(uuid "6e661fb4-0b02-4a4b-8f21-156362da8338")
+			(uuid "432845d1-1bce-48ee-ab1e-5124a0cd1e3d")
 		)
 		(instances
 			(project "STM32G491RE"
@@ -9613,7 +9577,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "0e21dd20-7578-4b96-be74-f2a0dbe77d3d")
+			(uuid "7c81d459-0a8a-43a1-845b-8060b78cf90b")
 		)
 		(instances
 			(project "STM32G491RE"
@@ -9691,7 +9655,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "8e97be95-32c0-4674-9ab1-96cbd881a2f8")
+			(uuid "e2f85f4e-97cf-445a-86d5-ce2d6dc70510")
 		)
 		(instances
 			(project "STM32G491RE"
@@ -9768,7 +9732,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "8ba57b10-2cdb-464f-a746-aba1bb80c5aa")
+			(uuid "0a647c87-995d-4c4c-8c61-28b3649fe578")
 		)
 		(instances
 			(project "STM32G491RE"
@@ -9845,7 +9809,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "606f4f4f-646b-4700-b507-be6339338185")
+			(uuid "a048fdcf-0e48-48ce-a5bc-4fe571c8d4c7")
 		)
 		(instances
 			(project "STM32G491RE"
@@ -9924,10 +9888,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "22bd711c-76d6-46d8-8d8c-21e42895dd07")
+			(uuid "10e2b3e9-e759-4bbb-9148-9c1ac1b81092")
 		)
 		(pin "1"
-			(uuid "b8dddd8a-c3ff-4aa5-97de-d4be779ef779")
+			(uuid "a01ae0e2-6a23-426e-a371-14ef2967d3b0")
 		)
 		(instances
 			(project "STM32G491RE"
@@ -10006,10 +9970,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "e4c58bca-99f7-4fbb-9631-1b9e937751f1")
+			(uuid "db727ab9-a763-4f5e-87a1-9a4344f63fdd")
 		)
 		(pin "1"
-			(uuid "7c9f855f-5b86-402d-9613-2b3ac3d8a48b")
+			(uuid "d4b915cb-2876-4e63-a1bd-982b946b3470")
 		)
 		(instances
 			(project "STM32G491RE"
@@ -10087,7 +10051,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "661beea5-3950-40c7-89d0-ab4c08a41217")
+			(uuid "63d9a039-1247-4089-8ce3-bd048ae05e92")
 		)
 		(instances
 			(project "STM32G491RE"
@@ -10166,10 +10130,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "b56edc6c-347b-48cd-a0cf-8ceb7ac7c82b")
+			(uuid "fb40d33e-5e64-4abe-9ee7-b301ad33327a")
 		)
 		(pin "1"
-			(uuid "3eada8ef-dfe6-4895-8e23-a4c02869df6f")
+			(uuid "3b3a6389-15d5-4754-b6f2-7594c7045ddc")
 		)
 		(instances
 			(project "STM32G491RE"
@@ -10248,34 +10212,34 @@
 			)
 		)
 		(pin "3"
-			(uuid "2506e0fa-38fd-4e82-8b4d-548de9b2701e")
+			(uuid "ca525209-e8e3-42d4-8b6e-29effb83c675")
 		)
 		(pin "2"
-			(uuid "9e6504a4-3b55-4fe0-8c24-fce959a07c88")
+			(uuid "ccc583c1-73ac-4b89-8624-8271dbc48bdd")
 		)
 		(pin "5"
-			(uuid "d08b3fe1-cae8-4038-9a28-a6002b19c7da")
+			(uuid "0ae95183-27d8-4f3f-8928-b7a915acd43c")
 		)
 		(pin "6"
-			(uuid "c7af5f76-7405-4173-bca5-0de2481205b9")
+			(uuid "cbca57dc-97b5-472b-a9be-b28e220cc2d3")
 		)
 		(pin "4"
-			(uuid "71a755a8-d95a-4c96-8308-bda3848543c5")
+			(uuid "d11d259b-3fdc-44ce-b09d-b54cd4868f8e")
 		)
 		(pin "1"
-			(uuid "f2b4b6fd-e4cc-4318-83e9-f70ddfa81e42")
+			(uuid "4240fecb-af87-4ee4-8f12-c372d0752f76")
 		)
 		(pin "7"
-			(uuid "f07eb3d1-a554-4635-bcc1-27771e70bc11")
+			(uuid "4ce90b84-e3ee-4da9-bcff-d0843a25cd51")
 		)
 		(pin "8"
-			(uuid "78c893cf-4e49-4bdb-bcee-0054ec7e4f89")
+			(uuid "0f5f2897-b568-40ba-8244-6e59d6da33c5")
 		)
 		(pin "9"
-			(uuid "0b2e8d6b-bfa2-4083-b299-6317c274172a")
+			(uuid "2673166a-2bee-4bf1-a744-2ea5212e9170")
 		)
 		(pin "9"
-			(uuid "46b36fd3-002c-47b1-8b2e-0ac17baeaae1")
+			(uuid "e256c0ab-d88f-4a36-a201-af8e6798cf23")
 		)
 		(instances
 			(project "STM32G491RE"
@@ -10353,19 +10317,19 @@
 			)
 		)
 		(pin "5"
-			(uuid "8e5ccbd2-4a14-4f28-9281-57df70d522cc")
+			(uuid "f922c996-d1df-41c3-a9d6-72979676f23f")
 		)
 		(pin "2"
-			(uuid "c3a616d9-989d-499a-b5e0-c4672ff21892")
+			(uuid "00cf2f24-d50c-4b3e-bec5-dee24042e100")
 		)
 		(pin "4"
-			(uuid "786e1265-a77a-4977-88ba-dcca112ef5eb")
+			(uuid "75b38b7d-69e0-4f19-9ade-d525513a70eb")
 		)
 		(pin "3"
-			(uuid "811ca562-cf52-416f-9302-6ce4d4558089")
+			(uuid "d4e08dfb-3253-49c3-ae98-6b38abf1b0a8")
 		)
 		(pin "1"
-			(uuid "b74d1515-b363-4a47-8992-573d149e2805")
+			(uuid "d57d5c19-6b22-4572-8380-fa900173d27e")
 		)
 		(instances
 			(project "STM32G491RE"
@@ -10442,10 +10406,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "7c774089-7ad4-4a3d-9a74-ebc09646600c")
+			(uuid "e0227aa6-9d49-4ab9-b1e1-f62456350019")
 		)
 		(pin "1"
-			(uuid "7d50c025-c810-4454-b9a6-480496991e4c")
+			(uuid "14e09869-6b9f-43c6-8335-d8a5b047fd53")
 		)
 		(instances
 			(project "STM32G491RE"
@@ -10522,7 +10486,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "14da7b76-b4e6-4963-8483-407598b1a295")
+			(uuid "9e178fb8-e27f-4907-a530-63e2dc3b8f55")
 		)
 		(instances
 			(project "STM32G491RE"
@@ -10610,10 +10574,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "d05f86d3-9fb0-4f8b-9c42-4144074309cf")
+			(uuid "d56e561e-885f-4013-a314-0d8ee0146c6b")
 		)
 		(pin "2"
-			(uuid "3044412f-9559-4cc0-86ea-23ed01d6a3f2")
+			(uuid "31344a3f-c3bd-4f02-b5b3-ad69fdfe23f4")
 		)
 		(instances
 			(project "STM32G491RE"
@@ -10691,7 +10655,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "c907e5b9-83d9-4ded-9ab8-d78cbd746521")
+			(uuid "02d26064-294d-4ca0-a418-58151979bcfb")
 		)
 		(instances
 			(project "STM32G491RE"
@@ -10770,10 +10734,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "72926010-128a-4a61-b732-93c5b3410cbf")
+			(uuid "b2e2d9aa-9eb5-4ab7-b0df-dc22ae4cc38d")
 		)
 		(pin "1"
-			(uuid "759551c0-e652-496f-a873-afe15308c7aa")
+			(uuid "73e337b1-a029-4048-9ded-7f8134aadf55")
 		)
 		(instances
 			(project "STM32G491RE"
@@ -10850,7 +10814,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "3ffcbc01-bb45-48ab-b5db-a7f269f8e6a7")
+			(uuid "b59d7119-0cf6-4b49-871e-bc056fcd6732")
 		)
 		(instances
 			(project "STM32G491RE"
@@ -10928,10 +10892,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "d1b22320-7152-4eba-a77b-cb02f4e34844")
+			(uuid "1b380e4e-7152-4248-b2e0-5b3822cdd281")
 		)
 		(pin "1"
-			(uuid "dbe52480-1a21-4f89-a0ac-20678626d797")
+			(uuid "4834ef80-fac1-41e6-81bb-16b8d7f5351a")
 		)
 		(instances
 			(project "STM32G491RE"
@@ -11019,10 +10983,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "7df58de5-e13e-4d53-8dc9-46d3a79b6b08")
+			(uuid "7be9831e-7b55-421f-b5f1-e56612ae7979")
 		)
 		(pin "2"
-			(uuid "23f17a8e-8399-436f-a2af-f709213a622c")
+			(uuid "9c9d06c3-5b9b-410f-b1ec-38e332079402")
 		)
 		(instances
 			(project "STM32G491RE"
@@ -11099,7 +11063,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "259b909f-7276-4fc3-b46b-dd9a95027d7b")
+			(uuid "8e4c5255-8930-4a78-854d-f4ab0d91c498")
 		)
 		(instances
 			(project "STM32G491RE"
@@ -11175,10 +11139,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "c444eade-d485-48eb-800f-e1679eae0be5")
+			(uuid "ece450b8-0ba9-431b-a0a6-b69dd82c5849")
 		)
 		(pin "2"
-			(uuid "88b154af-dc2c-46bf-80a2-a57eb97d5d13")
+			(uuid "6f7d55b2-8540-45a8-b4f2-13fa5193777e")
 		)
 		(instances
 			(project "STM32G491RE"
@@ -11256,7 +11220,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "ad4178b7-c3c1-41f0-b591-96bbfac8e3d1")
+			(uuid "ab82a849-40fa-49f9-b8a1-b97871013ad5")
 		)
 		(instances
 			(project "STM32G491RE"
@@ -11335,10 +11299,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "878b4903-ee62-44f4-8abc-f8a37a8585a2")
+			(uuid "d53ff120-7c2c-4e92-9295-f8f8e0c2cd02")
 		)
 		(pin "1"
-			(uuid "d47d6128-d891-4821-a993-e1b1a3b71de2")
+			(uuid "5e1e0315-9eac-4448-91f9-8b5c9faccad8")
 		)
 		(instances
 			(project "STM32G491RE"
@@ -11453,16 +11417,16 @@
 			)
 		)
 		(pin "2"
-			(uuid "3cf801e6-35f6-471b-a76d-c60f5c857b30")
+			(uuid "5ae1f2d1-93b7-47dd-9c4e-1a783ad3c188")
 		)
 		(pin "3"
-			(uuid "1c75b6d0-4407-44c8-ad27-13f77f98629c")
+			(uuid "a571dbbc-1608-4893-b9f4-65449dc57916")
 		)
 		(pin "1"
-			(uuid "925277a4-6937-45de-b2c5-de9779dbdbd3")
+			(uuid "25185b81-9595-4f9f-9fb5-3cac66f70626")
 		)
 		(pin "4"
-			(uuid "d40d735c-6a82-4e62-abbb-1374c477db44")
+			(uuid "1079bac0-cbf9-4b3c-ac8c-ba41e39de74f")
 		)
 		(instances
 			(project "STM32G491RE"
@@ -11540,10 +11504,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "9b6c51f0-67c7-4538-a127-30b2c4154993")
+			(uuid "4072fe30-08c5-4a8a-8138-c07e03b7e37a")
 		)
 		(pin "2"
-			(uuid "b630e807-cdd4-4e71-bd96-88904959f5f2")
+			(uuid "316b8c06-1500-4f3c-8c15-51696164fcf5")
 		)
 		(instances
 			(project "STM32G491RE"
@@ -11621,7 +11585,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "cfe7d990-b376-433e-a7b4-b2300ab9c11a")
+			(uuid "6338d270-ac6a-4e8a-abfe-7945e98231a7")
 		)
 		(instances
 			(project "STM32G491RE"
@@ -11698,7 +11662,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "978d448f-99ba-4514-807e-946f02e42f4d")
+			(uuid "2603492f-e30b-4e6c-b852-ea5e043e813c")
 		)
 		(instances
 			(project "STM32G491RE"
@@ -11777,10 +11741,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "11f63603-9312-4d53-a853-37045efa58d5")
+			(uuid "0a9752db-2ed3-480e-886b-82c5b9d5a2be")
 		)
 		(pin "1"
-			(uuid "79cd5eb5-c542-4d6d-b650-8f9f3cd25caa")
+			(uuid "0749fbf3-eeca-4eaa-ba3a-37c0661c978a")
 		)
 		(instances
 			(project "STM32G491RE"
@@ -11859,10 +11823,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "176ea604-ab0b-4a8f-9ce2-a5ab152c9ddd")
+			(uuid "c9c59636-abed-438d-ad29-a113cdc3bbc6")
 		)
 		(pin "1"
-			(uuid "c305880e-462a-4c48-a03d-e8201be01e31")
+			(uuid "4d5f0ec9-f3e2-4dcf-ae84-361fa79b38f1")
 		)
 		(instances
 			(project "STM32G491RE"
@@ -11940,10 +11904,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "7ab77b28-fc06-449c-aeb1-8c2ded6b0163")
+			(uuid "7a87844b-56a3-4968-8633-1ba20aad412b")
 		)
 		(pin "2"
-			(uuid "65d84760-69c9-48b4-93d2-653fdb58edde")
+			(uuid "d6f69cb6-9632-436b-bbe3-3bbb56971322")
 		)
 		(instances
 			(project "STM32G491RE"
@@ -12020,7 +11984,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "2dedde57-ea72-4b10-840c-77e3a6d5207a")
+			(uuid "6bcaba67-6e52-47bb-86c6-277c04d6e48f")
 		)
 		(instances
 			(project "STM32G491RE"
@@ -12121,10 +12085,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "53256ae9-84cc-4ace-9909-51d5cf6cf083")
+			(uuid "f73e1554-3c73-41bc-988a-0e0b8e1d390e")
 		)
 		(pin "2"
-			(uuid "1019c0aa-3b3d-4ae8-8fd1-a45e9ae2afba")
+			(uuid "10f5d5ba-24dc-4191-8954-48b185cf7599")
 		)
 		(instances
 			(project "STM32G491RE"
@@ -12212,10 +12176,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "ff318fb3-bd66-4285-9ee3-b9899e4bdd4d")
+			(uuid "91356a07-0d49-4a4f-b776-760366bb4a02")
 		)
 		(pin "2"
-			(uuid "cfe02536-acd4-4fa8-9a38-2334856075aa")
+			(uuid "e161d61c-f790-4dcb-ae29-b297153f9da8")
 		)
 		(instances
 			(project "STM32G491RE"
@@ -12291,97 +12255,15 @@
 			)
 		)
 		(pin "2"
-			(uuid "9714cbb6-037b-4f39-94e4-35f688af02ea")
+			(uuid "b78a3d89-b690-4c28-93d7-d3e5bb2e435c")
 		)
 		(pin "1"
-			(uuid "e12f2efc-4312-43ae-bb13-cb64fccb34e1")
+			(uuid "5a740ef9-e835-47f5-a122-b5c3fd4499d3")
 		)
 		(instances
 			(project "STM32G491RE"
 				(path "/213f8898-394f-49c4-9e4a-d0dfd12ebcad/e9a9bd6d-d0b2-41a1-a6d5-2085ebfa0e2e"
 					(reference "R40")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C_Small")
-		(at 20.32 46.99 0)
-		(mirror y)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "bf5e3bfd-1a93-47ac-a4b8-d81575c8a0c2")
-		(property "Reference" "C59"
-			(at 18.034 47.752 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "22uF"
-			(at 18.542 45.974 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
-			(at 20.32 46.99 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 20.32 46.99 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 20.32 46.99 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "cade7155-6f4f-48f1-bd4b-978ac85e9478")
-		)
-		(pin "2"
-			(uuid "af84fa40-a503-4641-ace4-943f985b4a99")
-		)
-		(instances
-			(project "STM32G491RE"
-				(path "/213f8898-394f-49c4-9e4a-d0dfd12ebcad/e9a9bd6d-d0b2-41a1-a6d5-2085ebfa0e2e"
-					(reference "C59")
 					(unit 1)
 				)
 			)
@@ -12454,7 +12336,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "96f58854-b80d-48f9-abf8-188c617289d9")
+			(uuid "690855c7-3e96-4106-b72f-f87e79811aba")
 		)
 		(instances
 			(project "STM32G491RE"
@@ -12531,7 +12413,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "0eb5fc81-fe9b-457f-8830-06c625ddbc5d")
+			(uuid "dcb2afe5-724b-4712-a8b3-b2ca1472cac8")
 		)
 		(instances
 			(project "STM32G491RE"
@@ -12608,7 +12490,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "0fe66956-bee3-48b9-883f-98392e641f25")
+			(uuid "84d51555-7647-45c8-87b9-8e58f5b1f3c3")
 		)
 		(instances
 			(project "STM32G491RE"
@@ -12686,7 +12568,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "6417601f-364a-414c-b099-398f826d3057")
+			(uuid "8340424c-1ebe-4fad-b656-16a3a9cbdc2f")
 		)
 		(instances
 			(project "STM32G491RE"
@@ -12763,7 +12645,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "c7bc94a1-03b1-41c7-b852-52c7264dfdd5")
+			(uuid "15a13a64-5221-4ca1-aee8-0d14c36df888")
 		)
 		(instances
 			(project "STM32G491RE"
@@ -12998,52 +12880,52 @@
 			)
 		)
 		(pin "B1_A12"
-			(uuid "2ee21b01-2ed5-4637-a6f4-179eb5cd0ea2")
+			(uuid "7e0b2d19-80e2-4b5a-995e-3f9c44d5b8a1")
 		)
 		(pin "SH1"
-			(uuid "50d16a2c-3311-45f7-a59e-fe94807a7737")
+			(uuid "556c2124-05e9-4840-83b5-0265e871e137")
 		)
 		(pin "SH3"
-			(uuid "13d80858-c131-4ce9-920b-fb479d98a86d")
+			(uuid "8965542a-a9ce-44aa-a5b5-2a847be26eea")
 		)
 		(pin "B4_A9"
-			(uuid "15135569-fb7c-4f67-afba-86294289c26c")
+			(uuid "b737bc18-7d48-4a2e-9cdd-b123f876b137")
 		)
 		(pin "A5"
-			(uuid "1812ba6b-7335-48e3-a918-613c3f921975")
+			(uuid "dc2f35b6-0b8f-4847-8554-ddd659c0aeae")
 		)
 		(pin "B5"
-			(uuid "8f9769cf-0664-475f-a572-3cabef3bf80d")
+			(uuid "25a53b34-f56c-42c2-b104-81428e95741f")
 		)
 		(pin "SH4"
-			(uuid "74b42b79-fcd6-4125-b4c7-e430e53fd11f")
+			(uuid "2d7bdcaf-9ae5-4cee-8056-cbfaa88eb9f5")
 		)
 		(pin "B6"
-			(uuid "7e625692-75fe-4c45-9cfb-f308ec137daf")
+			(uuid "27c0d115-0dfb-4b25-9771-0309ffba542d")
 		)
 		(pin "A6"
-			(uuid "65152e25-9c85-442e-8967-76bba7dc2073")
+			(uuid "b8e3f620-3d68-4623-a6a3-748765cc3cd3")
 		)
 		(pin "A7"
-			(uuid "7a4c5119-977a-4f27-97f4-0238bcbdcd53")
+			(uuid "b3afd466-9638-4d24-87b3-9c52382a87c8")
 		)
 		(pin "A1_B12"
-			(uuid "8366f0b0-b058-4069-a7d7-4ca9c07d04c9")
+			(uuid "c9bf83bb-627c-49dd-9fe2-d1432f1f33d4")
 		)
 		(pin "A4_B9"
-			(uuid "817e1455-7d81-45df-a81e-704e1d6b5178")
+			(uuid "a08dab3b-e927-4d0e-8203-84b7aaf18001")
 		)
 		(pin "A8"
-			(uuid "f202f571-bcc7-4ec6-8e02-308b2dbe804d")
+			(uuid "ee8acb1d-4ef9-4617-9f6d-3133489ba824")
 		)
 		(pin "B7"
-			(uuid "e1c12af4-02f2-4ede-a125-64a91423b928")
+			(uuid "3acef105-3d98-475c-951d-329f476f90a5")
 		)
 		(pin "B8"
-			(uuid "5d59edf6-4202-467f-afd1-c3c355bce767")
+			(uuid "c4ddd752-c98c-4957-991c-a2d82aac7d2f")
 		)
 		(pin "SH2"
-			(uuid "4a5be911-0014-456d-93db-22e2a700577e")
+			(uuid "4f7ac5d5-cccd-49a2-8e6e-27c49199ccb6")
 		)
 		(instances
 			(project "STM32G491RE"
@@ -13121,7 +13003,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "96b72ec6-5985-4920-b4f7-c540efdfe48a")
+			(uuid "b571064f-00ec-4e1d-a91a-333d949bdd36")
 		)
 		(instances
 			(project "STM32G491RE"
@@ -13199,7 +13081,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "4dc6b153-e57a-437d-83c4-3cb6ec5f6884")
+			(uuid "4d8ed45f-9cb1-4d60-8f59-1be79be657b5")
 		)
 		(instances
 			(project "STM32G491RE"
@@ -13278,10 +13160,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "79c58924-bcad-4217-a13c-5324dee21cf7")
+			(uuid "4ec07a61-16b3-4fa3-a332-78758739df27")
 		)
 		(pin "2"
-			(uuid "316f90fe-9830-4ca2-b3ac-cb6c9e9ee0ec")
+			(uuid "d490c03c-47af-426b-8fc7-2e4eba84e576")
 		)
 		(instances
 			(project "STM32G491RE"
@@ -13358,7 +13240,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "98cf953c-c3c4-4666-b1f7-4e1c44aea861")
+			(uuid "29bda513-be5e-4583-b322-3081b0c7bc1c")
 		)
 		(instances
 			(project "STM32G491RE"
@@ -13435,7 +13317,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "538a75c0-663f-4b83-be3c-56ba3f8cfb13")
+			(uuid "6b68a052-e73c-44e0-8337-b84994a25bff")
 		)
 		(instances
 			(project "STM32G491RE"
@@ -13511,10 +13393,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "62d755cc-b042-41e1-9809-18143235526f")
+			(uuid "4149d62c-4228-4a8b-943d-0bf79e9c7193")
 		)
 		(pin "1"
-			(uuid "855de3bf-8b4d-4a19-8eff-857344f50cbf")
+			(uuid "ac233584-e0dc-4900-b333-f4a572a4fbd4")
 		)
 		(instances
 			(project "STM32G491RE"
@@ -13592,89 +13474,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "9c6c1076-ca60-4b38-adf8-57b4fe16d9f2")
+			(uuid "49ad1817-1611-4279-9a84-711700382c0a")
 		)
 		(instances
 			(project "STM32G491RE"
 				(path "/213f8898-394f-49c4-9e4a-d0dfd12ebcad/e9a9bd6d-d0b2-41a1-a6d5-2085ebfa0e2e"
 					(reference "#PWR084")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 20.32 54.61 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "df05c397-5e67-42ae-aab5-5c6d6c408cc5")
-		(property "Reference" "#PWR0118"
-			(at 20.32 60.96 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GND"
-			(at 20.32 58.166 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 20.32 54.61 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 20.32 54.61 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 20.32 54.61 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "92f075bc-ab00-48d7-9da6-3660dcd5c90a")
-		)
-		(instances
-			(project "STM32G491RE"
-				(path "/213f8898-394f-49c4-9e4a-d0dfd12ebcad/e9a9bd6d-d0b2-41a1-a6d5-2085ebfa0e2e"
-					(reference "#PWR0118")
 					(unit 1)
 				)
 			)
@@ -13746,10 +13551,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "ce8b7da9-4f37-412d-a8c4-a6d8131f3f09")
+			(uuid "dd5f765d-ce48-463c-b8cb-466f1255f646")
 		)
 		(pin "1"
-			(uuid "2e47ea2f-89ff-4ee8-be39-f8908a20dbd7")
+			(uuid "978c743e-1f33-4f0c-a922-6aacb6abeaf2")
 		)
 		(instances
 			(project "STM32G491RE"
@@ -13836,10 +13641,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "e2340a53-b828-440c-8262-61de1b94c80d")
+			(uuid "4594064d-ccb6-481e-9857-fb664e127eb2")
 		)
 		(pin "2"
-			(uuid "6a8a9b33-9b70-425d-9243-5e8f304d6004")
+			(uuid "d1922bc4-95a6-448a-b822-56aebfd71499")
 		)
 		(instances
 			(project "STM32G491RE"
@@ -13916,7 +13721,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "07376384-4371-4f39-9822-63b3bbd4d7dd")
+			(uuid "b33b78c9-b9b2-4bb7-81e2-00c0fd8cd27e")
 		)
 		(instances
 			(project "STM32G491RE"
@@ -13994,10 +13799,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "7a8a48a0-db8b-4333-ab94-86c0ee15cafd")
+			(uuid "47b070d2-5c13-4121-8ca1-43bbdcfb50d3")
 		)
 		(pin "2"
-			(uuid "de784d5c-a35e-4caa-8c4f-a4c7946d8e85")
+			(uuid "25cd0cce-e794-4c96-b1ba-8ffa09293f22")
 		)
 		(instances
 			(project "STM32G491RE"
@@ -14074,7 +13879,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "41c56dea-36ac-492c-baac-f60ad504c1a6")
+			(uuid "e1cce885-8265-450d-9474-e69a257e0a5f")
 		)
 		(instances
 			(project "STM32G491RE"
@@ -14151,7 +13956,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "6d6e8776-b8f1-40c1-b569-8daf31298a8a")
+			(uuid "d4afe6e6-d629-4720-9eeb-be799f4f5232")
 		)
 		(instances
 			(project "STM32G491RE"
@@ -14229,7 +14034,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "f499cf4f-5b7d-4057-be71-d6c6402ac08f")
+			(uuid "9a900681-845b-4663-8d29-c379f9044cf5")
 		)
 		(instances
 			(project "STM32G491RE"
@@ -14305,10 +14110,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "2c0cf0b0-351e-47d3-a5a7-99144a2b0047")
+			(uuid "db8fa662-f71a-449d-b2c5-b039b8da0f9f")
 		)
 		(pin "2"
-			(uuid "f810e0c0-22a6-4a81-9177-bb2df9df2fa4")
+			(uuid "7b6b8599-d675-40c9-b19a-472e4f533405")
 		)
 		(instances
 			(project "STM32G491RE"
@@ -14384,10 +14189,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "cc880be7-5491-41aa-b004-33b4ea4d86a2")
+			(uuid "468f3a0b-dd9c-4656-9acb-21909c6b117f")
 		)
 		(pin "1"
-			(uuid "ce026257-f034-45dd-aa37-b8b93c462b23")
+			(uuid "a796d451-5498-4d70-ba55-db98399ef441")
 		)
 		(instances
 			(project "STM32G491RE"
@@ -14463,10 +14268,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "ef028492-331c-4510-9946-303aa0eeb2d9")
+			(uuid "ef680025-f219-466a-a7e8-19e42ecd7224")
 		)
 		(pin "1"
-			(uuid "17b4f14b-6a1d-48cf-a8e0-d11c25dc05c8")
+			(uuid "136609c6-88fd-436b-8277-cc01ae2a51d5")
 		)
 		(instances
 			(project "STM32G491RE"
@@ -14542,10 +14347,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "e57e4813-f3eb-42c4-83db-731381b25aa5")
+			(uuid "5b28c5e6-887e-4b30-9df3-b7d62773ffe5")
 		)
 		(pin "1"
-			(uuid "63bc3c4b-2fb2-49ae-9779-c5530982de4e")
+			(uuid "7736be3d-02db-439d-89d2-0cefb1a9c31c")
 		)
 		(instances
 			(project "STM32G491RE"
@@ -14720,82 +14525,82 @@
 			)
 		)
 		(pin "12"
-			(uuid "c67ac975-d5d5-4936-9b53-0979bb61fb2b")
+			(uuid "42557c16-fee8-40bd-9502-69b38b051587")
 		)
 		(pin "15"
-			(uuid "a0ade593-9565-4e4b-a246-2a30ab93763a")
+			(uuid "d6214fe8-1d54-4bae-9b43-5c5340aafebf")
 		)
 		(pin "2"
-			(uuid "37051e47-c70a-4cc1-9778-2d6d80453e1f")
+			(uuid "e04fd96c-2f53-40c1-a0dc-2b47d460bfa8")
 		)
 		(pin "10"
-			(uuid "d2c25d64-a341-48ef-bd52-63fd1b9a77a8")
+			(uuid "4768d79d-81cd-4534-96f3-5d7024ada4eb")
 		)
 		(pin "14"
-			(uuid "9e787b8a-34d3-4ab7-ac61-7ad96fcf6557")
+			(uuid "bbe24162-edd5-41cb-815b-8368cb028284")
 		)
 		(pin "4"
-			(uuid "afa22a0a-f4a3-4d49-8582-1c1ff535b627")
+			(uuid "67bdfe1d-ff37-4b8b-9b19-b8068d6e05cf")
 		)
 		(pin "3"
-			(uuid "75d6a3aa-2eba-4714-a4c2-b6291929ed3f")
+			(uuid "5ae5b342-23fa-4958-b020-d9d311333142")
 		)
 		(pin "8"
-			(uuid "d36252eb-8b33-4ad4-937a-e42c861c7ce7")
+			(uuid "e5828530-2713-4e51-ae9c-53699e461b9c")
 		)
 		(pin "6"
-			(uuid "be1b082b-b22b-40b9-be5f-2d309725c228")
+			(uuid "3bc89ed2-fe56-4c90-8be4-260c7c76d038")
 		)
 		(pin "7"
-			(uuid "0ffe5142-262f-4929-b48b-f34e4a39623e")
+			(uuid "5afec36a-4bb9-4103-9363-b264d4abae9e")
 		)
 		(pin "9"
-			(uuid "23b1af8b-2b14-4932-885e-018f56259c46")
+			(uuid "606cd3de-1fb6-4c09-8035-3f3bffaf450a")
 		)
 		(pin "1"
-			(uuid "69ae6ab8-2834-4135-910e-f8b10d0bdb62")
+			(uuid "85491c16-e7c1-4cdc-be06-1ddaefa30693")
 		)
 		(pin "5"
-			(uuid "f05ca7d7-4b7e-48bf-bbac-fa51a23975d3")
+			(uuid "4042f1dd-8391-4951-bb2a-6e66027e7b86")
 		)
 		(pin "11"
-			(uuid "7bd458dc-a872-483e-a93e-15510199267f")
+			(uuid "e99ee2d8-91d1-4564-b5c5-9a17231d8de4")
 		)
 		(pin "13"
-			(uuid "0fc488db-38ee-443b-b8be-d0f83a7aa743")
+			(uuid "bbb06404-7b95-438d-a6bd-916c33ce073d")
 		)
 		(pin "17"
-			(uuid "a767f941-3d85-41a4-b53d-0ccc9d1caa4c")
+			(uuid "44eb1ee7-d656-4bfd-8c42-0019093f1916")
 		)
 		(pin "18"
-			(uuid "ac86a953-6f0d-4f3f-ae8a-b62aa0ec94dd")
+			(uuid "7a3ad3d6-f0bf-42f6-9fa3-8ab703b5717a")
 		)
 		(pin "20"
-			(uuid "acc8cbd4-0496-42f7-a658-fb792f4e65e7")
+			(uuid "ec3a90bf-eef7-4294-9a85-e5c4bf95ebeb")
 		)
 		(pin "19"
-			(uuid "914980e0-208c-46ae-94e7-54c3acc8a569")
+			(uuid "1b64c08c-a116-43c2-9b13-2302c85e115f")
 		)
 		(pin "21"
-			(uuid "5f8d6f0e-bf77-4367-b1e1-9a9614e4ed3d")
+			(uuid "0f72b6ed-b4cf-4dee-ba05-c380dffcf2c6")
 		)
 		(pin "23"
-			(uuid "2f0b2836-c087-4c1b-8aa7-f3f5b858fa24")
+			(uuid "75b5c1d0-c4cd-4d6e-ac6a-cebff7783b9b")
 		)
 		(pin "16"
-			(uuid "db9e8b61-b0c3-46c4-9236-9f0e2a2600d9")
+			(uuid "57486cbd-0d1a-472f-91be-980c0d5bb607")
 		)
 		(pin "24"
-			(uuid "f483e1a6-ddab-41be-af27-041a5b764a82")
+			(uuid "22a171c3-42eb-413d-9187-4b681e2923a8")
 		)
 		(pin "26"
-			(uuid "c0128f06-c6cf-4084-93e8-3cf3d82f61b8")
+			(uuid "023b7826-eaeb-47b7-979b-a28b3e583cf1")
 		)
 		(pin "22"
-			(uuid "065fca77-25d4-479b-8d18-fac939e43b72")
+			(uuid "674a57d0-7f80-4346-a79f-87755fd5061e")
 		)
 		(pin "25"
-			(uuid "7ea592a5-cb3a-484e-940c-647bac676725")
+			(uuid "19fe04d3-170e-42ac-ba53-a76c8c0c1495")
 		)
 		(instances
 			(project "STM32G491RE"
@@ -14872,7 +14677,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "b9582b41-0c00-4d69-a488-f7837e71b4fd")
+			(uuid "531bc7d3-e9d2-4768-8bba-5842297f5a71")
 		)
 		(instances
 			(project "STM32G491RE"
@@ -14948,13 +14753,13 @@
 			)
 		)
 		(pin "2"
-			(uuid "dd19a814-cbcc-4cdb-8c31-d682cfc38ef5")
+			(uuid "ff9e8a9f-3c06-4222-b383-4fe74ce8c2f2")
 		)
 		(pin "3"
-			(uuid "7bea4589-2c70-4c24-b525-6710b7c0aa8d")
+			(uuid "73f3b741-235d-47ab-8e82-716cca18faa0")
 		)
 		(pin "1"
-			(uuid "ed156030-0f83-4fb4-9e32-e55c55b81d98")
+			(uuid "2d2119b5-8fa3-4308-a148-fc34bd2a8ec7")
 		)
 		(instances
 			(project "STM32G491RE"
@@ -14999,7 +14804,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 36.83 46.99 0)
 			(hide yes)
 			(show_name no)
@@ -15033,10 +14838,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "71353b6b-38b6-422e-94ea-4e88ddb8d106")
+			(uuid "0ee63ce0-96f5-4332-9eda-0e16804a94fb")
 		)
 		(pin "2"
-			(uuid "1641927d-5adf-4deb-9b17-6de46b355272")
+			(uuid "cc8afd2a-45e0-47df-9a19-738d0434ec64")
 		)
 		(instances
 			(project "STM32G491RE"
@@ -15113,7 +14918,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "004824a1-1b18-4298-9d0f-f2f217f5c41e")
+			(uuid "e388cca9-5abb-4a82-a163-edb649f12b8a")
 		)
 		(instances
 			(project "STM32G491RE"
@@ -15190,7 +14995,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "43f10308-798c-47e7-9f03-bcf2cb26234e")
+			(uuid "7b992fe3-4fcf-4ac4-a116-541e304b27a0")
 		)
 		(instances
 			(project "STM32G491RE"

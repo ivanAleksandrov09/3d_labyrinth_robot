@@ -652,7 +652,7 @@
         "uuid": "213f8898-394f-49c4-9e4a-d0dfd12ebcad"
       }
     ],
-    "used_designators": "",
+    "used_designators": "D11-16,#PWR152-172,C65-73,Q6-11,R52-69",
     "variants": []
   },
   "sheets": [
@@ -675,6 +675,10 @@
     [
       "e9a9bd6d-d0b2-41a1-a6d5-2085ebfa0e2e",
       "BMS"
+    ],
+    [
+      "6a1b83a0-6f5b-4d92-ac48-84d0435bfbc9",
+      "Sensors"
     ]
   ],
   "text_variables": {},
