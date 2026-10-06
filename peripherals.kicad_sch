@@ -6731,7 +6731,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_2x04_P2.54mm_Horizontal"
+		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_2x04_P2.54mm_Vertical"
 			(at 58.42 24.13 0)
 			(hide yes)
 			(show_name no)
@@ -7958,7 +7958,7 @@
 	)
 	(symbol
 		(lib_id "power:+3.3V")
-		(at 109.0833 99.06 0)
+		(at 109.22 99.06 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -7968,7 +7968,7 @@
 		(dnp no)
 		(uuid "934b2f82-808e-4aa6-9a52-a7cda7d8eac0")
 		(property "Reference" "#PWR0140"
-			(at 109.0833 102.87 0)
+			(at 109.22 102.87 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7979,7 +7979,7 @@
 			)
 		)
 		(property "Value" "+3.3V"
-			(at 108.5753 95.25 0)
+			(at 108.712 95.25 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7989,7 +7989,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 109.0833 99.06 0)
+			(at 109.22 99.06 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8000,7 +8000,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 109.0833 99.06 0)
+			(at 109.22 99.06 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8011,7 +8011,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
-			(at 109.0833 99.06 0)
+			(at 109.22 99.06 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)

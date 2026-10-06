@@ -4348,16 +4348,6 @@
 		)
 		(uuid "8dd3844b-e519-446b-b0b4-79d6a8bb0f49")
 	)
-	(text "divider 180k / 100k gives us 3V at 8.4V input\n"
-		(exclude_from_sim no)
-		(at 90.678 102.108 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "a5383878-6360-400c-9daf-ac8dc7d5847e")
-	)
 	(text "POWER CHOICE"
 		(exclude_from_sim no)
 		(at 186.69 65.024 0)
@@ -4367,16 +4357,6 @@
 			)
 		)
 		(uuid "c7f7fe29-e356-4372-ad2c-b9e148267914")
-	)
-	(text "CREATE CUSTOM FOOTPRINT HERE->"
-		(exclude_from_sim no)
-		(at 69.088 26.924 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "fac2a5a4-1fd9-4786-8781-8dd14217eb8b")
 	)
 	(junction
 		(at 256.54 132.08)
