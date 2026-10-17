@@ -4,6 +4,10 @@
 	(generator_version "10.0")
 	(uuid "0b2a6e18-f504-4d44-b94a-187aa7508664")
 	(paper "A4")
+	(title_block
+		(title "Super mega cool 3D labyrinth robot")
+		(date "2026-10-07")
+	)
 	(lib_symbols
 		(symbol "Connector_Generic:Conn_01x04"
 			(pin_names
