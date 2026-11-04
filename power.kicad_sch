@@ -7070,7 +7070,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "666dde3c-a030-4a98-9687-fa5e80b61849")
 		(property "Reference" "C27"
 			(at 47.498 68.58 0)

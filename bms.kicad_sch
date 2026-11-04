@@ -4519,12 +4519,6 @@
 		(uuid "76a61b5f-2c63-4208-961a-70903b6637f6")
 	)
 	(junction
-		(at 86.36 55.88)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "79693677-1bc9-4f71-970b-62a392031d93")
-	)
-	(junction
 		(at 86.36 66.04)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -4625,6 +4619,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "eede5d2d-26cd-4092-92fb-831c461333a7")
+	)
+	(junction
+		(at 86.36 55.88)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f1a1b8b1-8f0b-49cc-92e5-bf7510a55470")
 	)
 	(junction
 		(at 153.67 64.77)
@@ -6537,6 +6537,83 @@
 		)
 	)
 	(symbol
+		(lib_id "power:+3V3")
+		(at 147.32 82.55 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "041ba0f1-6036-4162-b592-e166a82cd7ad")
+		(property "Reference" "#PWR0157"
+			(at 147.32 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+VCC"
+			(at 147.32 78.74 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 147.32 82.55 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 147.32 82.55 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3V3\""
+			(at 147.32 82.55 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "ffd7dc87-3018-4d32-85fa-951e66ad4fb1")
+		)
+		(instances
+			(project "STM32G491RE"
+				(path "/213f8898-394f-49c4-9e4a-d0dfd12ebcad/e9a9bd6d-d0b2-41a1-a6d5-2085ebfa0e2e"
+					(reference "#PWR0157")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R_Small")
 		(at 35.56 50.8 0)
 		(mirror y)
@@ -7023,83 +7100,6 @@
 	)
 	(symbol
 		(lib_id "power:+5V")
-		(at 147.32 82.55 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "13d4ddaa-2867-4780-9c90-206e29e92d50")
-		(property "Reference" "#PWR0101"
-			(at 147.32 86.36 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "+VCC"
-			(at 147.32 78.994 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 147.32 82.55 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 147.32 82.55 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 147.32 82.55 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "49a5dccd-cbe3-4b77-bf6f-3d32f891c617")
-		)
-		(instances
-			(project "STM32G491RE"
-				(path "/213f8898-394f-49c4-9e4a-d0dfd12ebcad/e9a9bd6d-d0b2-41a1-a6d5-2085ebfa0e2e"
-					(reference "#PWR0101")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+5V")
 		(at 264.16 127 0)
 		(unit 1)
 		(body_style 1)
@@ -7408,83 +7408,6 @@
 			(project "STM32G491RE"
 				(path "/213f8898-394f-49c4-9e4a-d0dfd12ebcad/e9a9bd6d-d0b2-41a1-a6d5-2085ebfa0e2e"
 					(reference "R26")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+5V")
-		(at 86.36 55.88 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "1cb2b77f-a72b-4d00-b1bb-a5bbd740d4ba")
-		(property "Reference" "#PWR0132"
-			(at 86.36 59.69 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "+VCC"
-			(at 86.36 52.324 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 86.36 55.88 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 86.36 55.88 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 86.36 55.88 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "50507b7f-589d-4daf-9bc8-115af506af6c")
-		)
-		(instances
-			(project "STM32G491RE"
-				(path "/213f8898-394f-49c4-9e4a-d0dfd12ebcad/e9a9bd6d-d0b2-41a1-a6d5-2085ebfa0e2e"
-					(reference "#PWR0132")
 					(unit 1)
 				)
 			)
@@ -10373,10 +10296,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "88bc3bd4-80f0-4dac-bc8a-db3d9af07d9e")
 		(property "Reference" "R25"
-			(at 81.28 49.5299 0)
+			(at 79.502 49.53 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10387,7 +10309,7 @@
 			)
 		)
 		(property "Value" "1k"
-			(at 81.28 52.0699 0)
+			(at 79.502 51.308 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -13703,6 +13625,83 @@
 			(project "STM32G491RE"
 				(path "/213f8898-394f-49c4-9e4a-d0dfd12ebcad/e9a9bd6d-d0b2-41a1-a6d5-2085ebfa0e2e"
 					(reference "R34")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+3V3")
+		(at 86.36 55.88 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "d8bd68b6-7c71-44d6-ac41-b6e11b4da113")
+		(property "Reference" "#PWR0190"
+			(at 86.36 59.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+VCC"
+			(at 86.36 52.07 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 86.36 55.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 86.36 55.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3V3\""
+			(at 86.36 55.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "05988241-6a7b-418a-8438-85b7461cff92")
+		)
+		(instances
+			(project "STM32G491RE"
+				(path "/213f8898-394f-49c4-9e4a-d0dfd12ebcad/e9a9bd6d-d0b2-41a1-a6d5-2085ebfa0e2e"
+					(reference "#PWR0190")
 					(unit 1)
 				)
 			)
